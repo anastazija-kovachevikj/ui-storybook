@@ -16,5 +16,3 @@ Then open `http://localhost:6006`.
 ```powershell
 npm run build-storybook
 ```
-
-The generated `storybook-static` folder is intentionally not committed. It can be published through GitHub Pages, Chromatic, or another static hosting provider.
