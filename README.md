@@ -1,4 +1,4 @@
-# ClaimUW Storybook
+# UI Components Storybook
 
 The component library and its interactive Storybook documentation, extracted from the ClaimUW dashboard.
 
