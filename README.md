@@ -1,6 +1,6 @@
 # UI Components Storybook
 
-The component library and its interactive Storybook documentation, extracted from the ClaimUW dashboard.
+The component library and its interactive Storybook documentation.
 
 ## Run locally
 
